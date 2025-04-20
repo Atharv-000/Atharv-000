@@ -7,22 +7,7 @@
 
 ---
 
-### 🎮 Try a Fun Game:
-<p align="left">
-  <a href="https://atharv-000.github.io/awesome-game" target="_blank">
-    <img src="https://img.shields.io/badge/Play%20Game-%F0%9F%8E%AE-green?style=for-the-badge" alt="Play Game Badge">
-  </a>
-</p>
 
----
-
-### 🌐 Connect with me:
-<p align="left">
-  <a href="www.linkedin.com/in/atharv-sharma-87290231b" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="30" style="margin-right: 15px;" /></a>
-  <a href="mailto:your-omprakash26101948@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="30" width="30" style="margin-right: 15px;" /></a>
-</p>
-
----
 
 ### 🛠️ Languages and Tools:
 <p align="left">
