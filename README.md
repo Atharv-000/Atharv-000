@@ -42,4 +42,3 @@
 
 
 
-> 🚀 Keep pushing your Python and SciPy skills — they're perfect tools for building awesome data science projects. Let me know if you want to integrate any of your work into this README!
